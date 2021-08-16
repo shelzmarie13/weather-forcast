@@ -1,7 +1,7 @@
 import React from 'react'
-import Logo from '@components/atoms/Logo'
+import SearchCity from '@components/SearchCity'
 
 const Home: React.FC = () => {
-  return <Logo />
+  return <SearchCity />
 }
 export default Home
